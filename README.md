@@ -1,16 +1,49 @@
-## Hi there 👋
+<div align="start">
 
-<!--
-**Arshidiqbaldev/Arshidiqbaldev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```text
+ █████╗ ██████╗ ███████╗██╗  ██╗██╗██████╗
+██╔══██╗██╔══██╗██╔════╝██║  ██║██║██╔══██╗
+███████║██████╔╝███████╗███████║██║██║  ██║
+██╔══██║██╔══██╗╚════██║██╔══██║██║██║  ██║
+██║  ██║██║  ██║███████║██║  ██║██║██████╔╝
+╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝╚═════╝_
+```
 
-Here are some ideas to get you started:
+`design → code → resources`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```console
+arshid@github:~$ whoami
+
+Frontend Developer
+UI Designer
+Building minimal experiences.
+Always learning.
+
+arshid@github:~$ stack
+
+HTML
+CSS
+JavaScript
+Tailwind CSS
+Vite
+Git
+GitHub
+Figma
+Linux
+
+arshid@github:~$ status
+
+[✓] Shipping Projects
+[✓] Learning React
+[✓] Improving UI/UX
+
+arshid@github:~$ █
+
+```
+
+
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,vite,git,github,figma,vscode,ubuntu" />
+
+
+
+</div>
