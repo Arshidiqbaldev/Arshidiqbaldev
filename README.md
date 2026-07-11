@@ -29,7 +29,7 @@ Vite
 Git
 GitHub
 Figma
-Linux
+Ubuntu
 
 arshid@github:~$ status
 
