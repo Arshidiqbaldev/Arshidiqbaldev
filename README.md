@@ -1,14 +1,11 @@
 <div align="start">
 
 ```text
- ███  ████   ████ █   █ ███ ████  
-█   █ █   █ █     █   █  █  █   █ 
-█████ ████   ███  █████  █  █   █ 
-█   █ █  █      █ █   █  █  █   █ 
-█   █ █   █ ████  █   █ ███ ████  
-
-`design → code → resources`
+ ▄▀▄ █▀▄ ▄▀▀ █▄█ █ █▀▄  
+ █▀█ █▀▄ ▄██ █ █ █ █▄▀  
 ```
+`design → code → resources`
+
 ```console
 arshid@github:~$ whoami
 
