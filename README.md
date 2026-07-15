@@ -37,7 +37,7 @@ arshid@github:~$ █
 ```
 
 
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,vite,git,github,figma,vscode,ubuntu" />
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,vite,git,github,figma,wordpress,vscode,ubuntu" />
 
 
 
