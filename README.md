@@ -4,7 +4,7 @@
  ▄▀▄ █▀▄ ▄▀▀ █▄█ █ █▀▄  
  █▀█ █▀▄ ▄██ █ █ █ █▄▀  
 ```
-`design → code → resources`
+`design → coding → resources`
 
 ```console
 arshid@github:~$ whoami
