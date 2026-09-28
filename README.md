@@ -25,6 +25,7 @@ Git
 GitHub
 Figma
 Ubuntu
+Omarchy
 
 arshid@github:~$ status
 
